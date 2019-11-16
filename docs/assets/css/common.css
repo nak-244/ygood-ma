@@ -22,3 +22,7 @@
     width: auto;
     height: 30px;
 }
+
+.telnone {
+  border-bottom: none;
+}
